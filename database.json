@@ -1,0 +1,13 @@
+{
+  "contacts": {
+    "whatsapp": "6282286615903",
+    "email": "helpcs.rajaart@yahoo.com",
+    "priceInfo": "Rp 5.000 / Bulan"
+  },
+  "users": [],
+  "videos": []
+}
+3.  **Buat Token GitHub:**
+* Klik profil GitHub > **Settings** > **Developer Settings** > **Personal Access Tokens** > **Tokens (classic)**.
+* Klik **Generate new token**. Centang pilihan **`repo`**.
+* Salin kode token yang muncul.
