@@ -4,6 +4,11 @@
     "email": "admin@rajax.com",
     "priceInfo": "Rp 50.000"
   },
-  "users": [],
+  "users": [
+    {
+      "key": "RAJAVIP",
+      "duration": "30 Hari"
+    }
+  ],
   "videos": []
 }
